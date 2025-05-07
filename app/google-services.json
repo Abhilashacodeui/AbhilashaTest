@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488200316555",
+    "project_id": "test-ded17",
+    "storage_bucket": "test-ded17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488200316555:android:3124f19ba50dca9968968e",
+        "android_client_info": {
+          "package_name": "com.example.abhilasha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvu_PkinfIbJTLj26bGw3pV3W-rYpvg0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
